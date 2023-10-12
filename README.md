@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img src="https://github.com/xujiajiadexiaokeai/xujiajiadexiaokeai/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+<img src="https://github.com/xujiajiadexiaokeai/xujiajiadexiaokeai/blob/output/ocean.gif" alt="" style="max-width: 100%;">
 
